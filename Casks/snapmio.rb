@@ -1,6 +1,6 @@
 cask "snapmio" do
-  version "0.6.0"
-  sha256 "903ed8895f0d4b84fa9c77a183e56eb65205de5190eae0fdc3f43833ddedefb4"
+  version "0.7.0"
+  sha256 "77cdd315ff6dcaa6225e480f5a906325bd064ca93e61ececf4e1e770af3d968e"
 
   url "https://snapmio.app/download/Snapmio-#{version}.dmg"
   name "Snapmio"
